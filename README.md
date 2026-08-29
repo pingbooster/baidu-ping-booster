@@ -1,5 +1,7 @@
 # Baidu Ping Booster
 
+![Baidu Ping Booster Free](assets/baidu-ping-booster-logo.png)
+
 ![Version](https://img.shields.io/badge/version-2.1.0-00a4ef)
 ![WordPress](https://img.shields.io/badge/WordPress-5.0%2B-21759b)
 ![Tested](https://img.shields.io/badge/tested%20up%20to-7.0.4-21759b)
