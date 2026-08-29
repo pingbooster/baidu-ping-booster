@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.env
+.env.*
+vendor/
+node_modules/
+*.zip
+*.tar
+*.tar.gz
+*.log
+*.pem
+*.key
+service-account*.json
+baidu-ping-booster-settings-*.json
